@@ -3,7 +3,7 @@ The problems my Division 2 Team (D2: Team1) in the Oregon State University chapt
 
 More details about problems (eventually) and the competition can be found at http://acmicpc-pacnw.org/.
 
-Special thanks to Derek Williams (@derek-williams00) and Sadie Thomas for being fantastic teammates!
+Special thanks to Derek Williams (@derek-williams00) and Sadie Thomas (@sadiet20) for being fantastic teammates!
 
 ## Problem N: Checkerboard
 Create an R-by-C grid of black and white squares based on inputs. 
